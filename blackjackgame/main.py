@@ -64,14 +64,4 @@ def play_game():
             print(f"Computer's final hand: {computer_cards}, final score: {computer_score}")
             print(compare(user_score, computer_score))
 
-
-
-
-
-
-
-
-
-
-
 play_game()
